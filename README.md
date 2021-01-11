@@ -1,1 +1,3 @@
-# NewRep
+node_modules
+  .idea
+  .vscode
